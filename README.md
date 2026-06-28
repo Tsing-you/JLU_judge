@@ -11,7 +11,7 @@
 **如何使用**
 - 安装 Tampermonkey 浏览器扩展。
 - 打开 Tampermonkey → 新建脚本，粘贴并保存最下边的内容。
-- 访问评教网站， ievaluate.jlu.edu.cn/index.html   点进去第一个老师的界面，脚本会在页面就绪后自动运行。
+- 访问评教网站， [JLU评教网站](https://ievaluate.jlu.edu.cn/index.html)   点进去第一个老师的界面，脚本会在页面就绪后自动运行。
 
 **运行提示**
 - 若脚本未生效，检查 Tampermonkey 是否启用，或在浏览器控制台查看日志。
