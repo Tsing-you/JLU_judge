@@ -28,7 +28,7 @@
 // @name         JLU 自动评教
 // @namespace    http://tampermonkey.net/
 // @version      1.1.0
-// @description  等待页面加载完成后执行自动评教，并在最后点击“下一位教师”
+// @description  本脚本是针对JLU期中期末评教网站 evaluate.jlu.edu.cn 的自动评教脚本。
 // @author       Tsingyou
 // @match        https://ievaluate.jlu.edu.cn/*
 // @grant        none
